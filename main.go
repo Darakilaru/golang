@@ -12,6 +12,6 @@ func main() {
 }
 func hello(w http.ResponseWriter, r *http.Request){
 
-       fmt.Fprintf(w,"Welcome Devops")
+       fmt.Fprintf(w,"Welcome openshift")
 }
 
